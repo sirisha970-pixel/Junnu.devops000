@@ -1,0 +1,5 @@
+NAME OF THE STUDENT:- KAMSU SIRISHA
+COURSE NAME:- BACHLORE'S OF COMPUTERS APPLICATIONS.
+WHAT IS LEARNED ABOUT GITHUB:-GitHub as a DevOps Tool
+
+GitHub is more than just a code hosting platform — it plays a central role in DevOps by supporting collaboration, automation, CI/CD, and version control.
